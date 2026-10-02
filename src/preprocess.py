@@ -20,4 +20,5 @@ np.savez_compressed(
     x_val=x_val, y_val=y_val,
     x_test=x_test, y_test=d["y_test"],
 )
-print("train/val/test:", x_train.shape, x_val.shape, x_test.shape)
+print("train/val/test:", x_train.shape, x_val.shape, x_test.shape)# TODO: try different split ratios
+# TODO: add shuffle check
