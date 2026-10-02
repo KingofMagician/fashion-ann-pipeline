@@ -1,3 +1,3 @@
 # fashion-ann-pipeline
 
-Fashion-MNIST ANN pipeline with Git + DVC
+Fashion-MNIST ANN classifier, versioned with Git + DVC
